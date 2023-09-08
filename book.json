@@ -1,0 +1,11 @@
+{
+    "variables": {
+        "authorUrl": "https://github.com/dnadra/SampleBook",
+        "buyBookUrl": "https://github.com/dnadra/SampleBook",
+        "contactUrl": "https://github.com/dnadra/SampleBook",
+        "downloadUrl": "https://github.com/dnadra/SampleBook/releases/latest",
+        "officialUrl": "https://github.com/dnadra/SampleBook",
+        "pythonVersion": "3.6.0",
+        "sourceUrl": "https://github.com/dnadra/SampleBook"
+    }
+}
