@@ -12,10 +12,10 @@ npx honkit serve
 npx honkit build . public --log=debug
 
 # generate pdf
-npx honkit pdf . sample_book.pdf
+npx honkit pdf . sample-book.pdf
 
 # generate epub
-npx honkit epub . sample_book.epub
+npx honkit epub . sample-book.epub
 ```
 
 See https://github.com/honkit/honkit and https://honkit.netlify.app/
